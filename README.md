@@ -9,6 +9,7 @@
 
 ## Data Structures
 - [Map](map.ipynb)
+- [Set](set.ipynb)
 
 ## Libraries
 - [Math](math-library.ipynb)
