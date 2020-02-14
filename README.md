@@ -4,6 +4,7 @@
 - [Primitives](primitives.ipynb)
 - [String](string.ipynb)
 - [Array](array.ipynb)
+- [Enum](enum.ipynb)
 - [Exception Handling](exception-handling.ipynb)
 
 ## Data Structures
