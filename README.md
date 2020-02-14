@@ -3,11 +3,11 @@
 ## Basics
 - [Primitives](primitives.ipynb)
 - [String](string.ipynb)
-- [Array](Array.ipynb)
-- [Exception Handling](exception_handling.ipynb)
+- [Array](array.ipynb)
+- [Exception Handling](exception-handling.ipynb)
 
 ## Data Structures
-- [Map](Map.ipynb)
+- [Map](map.ipynb)
 
 ## Libraries
-- [Math](Math Library.ipynb)
+- [Math](math-library.ipynb)
