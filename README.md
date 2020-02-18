@@ -1,4 +1,6 @@
-# Java_Notebook
+# Java Notebook
+
+- Notebook Kernel: [IJava](https://github.com/SpencerPark/IJava)
 
 ## Basics
 - [Primitives](primitives.ipynb)
